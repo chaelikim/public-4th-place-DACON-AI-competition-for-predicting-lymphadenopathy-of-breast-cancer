@@ -79,7 +79,7 @@
         * Tabular 항목 : 범주형 항목 17개 , 수치형 항목 6개
         * 결측치 존재 : 범주형 결측치 항목 13개 , 수치형 결측치 항목 5개
             <img width="800" alt="스크린샷 2022-12-06 오후 4 01 53" src="https://user-images.githubusercontent.com/105691874/205843373-3b2316c1-5153-41f8-9748-5766fac2f02e.png">
-        * utlier(이상치) 존재  : PR_Allred_score(범주형)  : 0~8 범주를 벗어나는 데이터 존재
+        * outlier(이상치) 존재  : PR_Allred_score(범주형)  : 0~8 범주를 벗어나는 데이터 존재
 
     
     
